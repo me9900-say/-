@@ -23,7 +23,7 @@
   "env": {
     "SESSION": {
       "description": "🔑 Required – Your WhatsApp session ID (generated after linking the bot).",
-      "required": true
+      "required": false
     },
     "DEVICE": {
       "description": "Device mode: android (default) or ios. Android uses interactive select buttons; iOS uses text-only responses. Accepted values: android, ios, default.",
